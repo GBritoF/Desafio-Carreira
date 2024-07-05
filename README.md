@@ -1,4 +1,4 @@
-Conteúdos a serem trabalhados nesse módulo:
+Conteúdos a serem trabalhados nesse módulo (2 e 3):
 
 * Soft skills
 * LinkedIn
@@ -8,6 +8,14 @@ Conteúdos a serem trabalhados nesse módulo:
 * Introdução a TypeScript
 * Métodos de strings
 * Métodos de arrays
+* Servidores 
+* APIRest
+* Testes Automatizados
+* Rotas , Intermediarios e Controladores
+* Assincronismo
+* GitHub
+* Comunicação
+* Orientação de objetos
 
 O que eu já sei sobre os assuntos que serão abordados nesse módulo?
 
@@ -27,6 +35,18 @@ O que eu já sei sobre os assuntos que serão abordados nesse módulo?
 
 * Métodos básicos de arrays -> São funções integradas que permitem manipular e processar arrays, como adicionar ou remover elementos, ordenar, filtrar, mapear e percorrer os itens do array.
 
+* Servidores -> São computadores ou sistemas de software que fornecem serviços a outros computadores ou dispositivos, conhecidos como clientes, em uma rede.
+
+* APIRest -> E um conjunto de regras e convenções para construir e interagir com APIs, facilitando a comunicação entre sistemas diferentes
+
+* Orientação de objetos -> Metodos de objeto que ajudam e melhorar o codigo.
+
+* Testes Automatizados -> São testes automáticos para verificar se o que estamos implementando está correto.
+
+* Rotas , Intermediarios e Controladores -> São metodos para melhorar a manuntenção do codigo.
+
+* Assincronismo -> São várias requisições que podem ser resolvidas de forma assíncrona, ou seja, não necessariamente em sequência.
+
 O que quero aprender sobre os assuntos que serão abordados nesse módulo? 
 
 * Como me preparar melhor para buscar emprego, entender mais a fundo como as empresas funcionam e descobrir maneiras de garantir uma contratação mais rápida e eficiente.
@@ -34,6 +54,14 @@ O que quero aprender sobre os assuntos que serão abordados nesse módulo?
 * Entender como usar os metodos aprendidos como Metodos de Strings e Arrays em um projeto real que seria vendido para alguma empresa.
 
 * Quero entender mais a fundo como o LinkedIn funciona e como as empresas conduzem seus processos de contratação.
+
+* Melhorar minha forma de codificar, tornando o código mais limpo e mais fácil de dar manutenção.
+
+* Como criar servidores e manter o código mais organizado.
+
+* Orientação a Objetos, encapsulamento, herança, polimorfismo e abstração
+
+* Melhorar minhas habilidades na busca de emprego e compreender melhor como funciona o mercado de trabalho, incluindo o papel de cada tecnologia, como o GitHub, nesse contexto.
 
 Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
 
@@ -45,5 +73,13 @@ Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse mód
 
 * Metodos de Arrays e Strings e como eles deixam o codigo mais limpo.
 
-* Gerenciar meu tempo para que consiga ser mais produtivo
+* Gerenciar meu tempo para que consiga ser mais produtivo.
+
+* Como são criado servidores e para que servem.
+
+* Me comportar melhor em relação ao trabalho e ser mais comunicativo.
+
+* Deixar os codigos mais limpos e organizados utilizando metodos.
+
+* Orientação a Objetos e como ela ajuda a melhorar o código, tornando-o mais limpo.
 
