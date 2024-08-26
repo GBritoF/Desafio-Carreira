@@ -1,4 +1,4 @@
-Conteúdos a serem trabalhados nesse módulo (2 e 3):
+Conteúdos a serem trabalhados nesse módulo :
 
 * Soft skills
 * LinkedIn
@@ -63,6 +63,8 @@ O que quero aprender sobre os assuntos que serão abordados nesse módulo?
 
 * Melhorar minhas habilidades na busca de emprego e compreender melhor como funciona o mercado de trabalho, incluindo o papel de cada tecnologia, como o GitHub, nesse contexto.
 
+* Banco de Dados para melhoras minhas habilidades em Back-end , como funcionam e para que servem.
+
 Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
 
 * Criar um perfil no LinkedIn e a utilizar palavras-chave para aprimorar meus processos seletivos.
@@ -82,4 +84,7 @@ Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse mód
 * Deixar os codigos mais limpos e organizados utilizando metodos.
 
 * Orientação a Objetos e como ela ajuda a melhorar o código, tornando-o mais limpo.
+
+* Aprendi a criar e conectar bancos de dados com aplicações, utilizando métodos avançados para otimização e proteção. Além disso, desenvolvi a habilidade de integrar bancos de dados de terceiros de forma eficaz.
+
 
