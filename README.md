@@ -16,6 +16,7 @@ Conteúdos a serem trabalhados nesse módulo :
 * GitHub
 * Comunicação
 * Orientação de objetos
+* Banco de Dados
 
 O que eu já sei sobre os assuntos que serão abordados nesse módulo?
 
