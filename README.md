@@ -86,6 +86,6 @@ Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse mód
 
 * Orientação a Objetos e como ela ajuda a melhorar o código, tornando-o mais limpo.
 
-* Aprendi a criar e conectar bancos de dados com aplicações, utilizando métodos avançados para otimização e proteção. Além disso, desenvolvi a habilidade de integrar bancos de dados de terceiros de forma eficaz.
+* Aprendi a criar e conectar bancos de dados com aplicações, utilizando métodos avançados para otimização e proteção. Além disso, desenvolvi a habilidade de integrar APIs de terceiros de forma eficaz.
 
 
